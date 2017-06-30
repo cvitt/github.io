@@ -1,0 +1,41 @@
+# Empty CSS file for your own CSS
+img {
+  max-width: 100%;
+}
+
+#brand-image {
+  height: 40px;
+  margin: 5px;
+}
+.navbar-default {
+  background-color: white;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+.jumbotron h2 {
+  color: #003F87;
+}
+
+.jumbotron h3 {
+  color: #7FBA00;
+}
+
+.footer {
+  text-align: center;
+}
+
+.card-logo {
+  height: 100px;
+  margin: 15px;
+}
+
+.btn-primary:visited {
+  background-color: #003F87;
+}
+
+.btn-primary:hover {
+  background-color: #7FBA00;
+}
